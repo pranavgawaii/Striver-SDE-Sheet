@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **30 / 180 Problems (16.7%)**</code><br>
-<code>days active: 10 / 10 Days (100.0%)</code><br>
-<code>progress meter: [███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 16.7%</code><br>
+<code>overall completion: **33 / 180 Problems (18.3%)**</code><br>
+<code>days active: 11 / 11 Days (100.0%)</code><br>
+<code>progress meter: [████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 18.3%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -51,7 +51,7 @@
 
 <br />
 
-**02-Linked-List (Days 9–10)**
+**02-Linked-List (Days 9–11)**
 <br />
 
 ✅ **Day 9: Foundations**
@@ -63,3 +63,8 @@
 - Remove Nth node from the back of the LL
 - Add two numbers as LinkedList
 - Delete Node in a Linked List O(1)
+
+✅ **Day 11: Linked List Part - II**
+- Find intersection point of Y LinkedList
+- Detect a loop in LinkedList
+- Reverse LinkedList in groups of size k

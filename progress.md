@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **36 / 180 Problems (20.0%)**</code><br>
-<code>days active: 12 / 12 Days (100.0%)</code><br>
-<code>progress meter: [████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 20.0%</code><br>
+<code>overall completion: **39 / 180 Problems (21.7%)**</code><br>
+<code>days active: 13 / 13 Days (100.0%)</code><br>
+<code>progress meter: [█████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 21.7%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -51,7 +51,7 @@
 
 <br />
 
-**02-Linked-List (Days 9–12)**
+**02-Linked-List (Days 9–13)**
 <br />
 
 ✅ **Day 9: Foundations**
@@ -73,3 +73,8 @@
 - Check if LL is palindrome or not
 - Find the starting point in LL
 - Flattening of LL
+
+✅ **Day 13: Linked List & Two Pointers**
+- Rotate a Linked List
+- Clone a LL with random and next pointer
+- 3 Sum

@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **39 / 180 Problems (21.7%)**</code><br>
-<code>days active: 13 / 13 Days (100.0%)</code><br>
-<code>progress meter: [█████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 21.7%</code><br>
+<code>overall completion: **42 / 180 Problems (23.3%)**</code><br>
+<code>days active: 14 / 14 Days (100.0%)</code><br>
+<code>progress meter: [█████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 23.3%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -78,3 +78,13 @@
 - Rotate a Linked List
 - Clone a LL with random and next pointer
 - 3 Sum
+
+<br />
+
+**03-Two-Pointers (Day 14)**
+<br />
+
+✅ **Day 14: Two Pointers**
+- Trapping Rainwater
+- Remove duplicates from sorted array
+- Maximum Consecutive Ones

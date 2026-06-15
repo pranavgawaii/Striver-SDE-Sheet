@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **42 / 180 Problems (23.3%)**</code><br>
-<code>days active: 14 / 14 Days (100.0%)</code><br>
-<code>progress meter: [█████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 23.3%</code><br>
+<code>overall completion: **46 / 180 Problems (25.5%)**</code><br>
+<code>days active: 15 / 15 Days (100.0%)</code><br>
+<code>progress meter: [██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 25.5%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -88,3 +88,14 @@
 - Trapping Rainwater
 - Remove duplicates from sorted array
 - Maximum Consecutive Ones
+
+<br />
+
+**04-Greedy-Algorithms (Day 15)**
+<br />
+
+✅ **Day 15: Greedy Algorithm**
+- N meetings in one room
+- Minimum number of platforms required for a railway
+- Job sequencing Problem
+- Fractional Knapsack

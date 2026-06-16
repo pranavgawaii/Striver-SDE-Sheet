@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **46 / 180 Problems (25.5%)**</code><br>
-<code>days active: 15 / 15 Days (100.0%)</code><br>
-<code>progress meter: [██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 25.5%</code><br>
+<code>overall completion: **50 / 180 Problems (27.8%)**</code><br>
+<code>days active: 16 / 16 Days (100.0%)</code><br>
+<code>progress meter: [███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 27.8%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -99,3 +99,14 @@
 - Minimum number of platforms required for a railway
 - Job sequencing Problem
 - Fractional Knapsack
+
+<br />
+
+**05-Greedy-and-Recursion (Day 16)**
+<br />
+
+✅ **Day 16: Greedy & Recursion**
+- Minimum coins
+- Assign Cookies
+- Subset Sums
+- Subsets II

@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **50 / 180 Problems (27.8%)**</code><br>
-<code>days active: 16 / 16 Days (100.0%)</code><br>
-<code>progress meter: [███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 27.8%</code><br>
+<code>overall completion: **54 / 180 Problems (30.0%)**</code><br>
+<code>days active: 17 / 17 Days (100.0%)</code><br>
+<code>progress meter: [████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 30.0%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -110,3 +110,14 @@
 - Assign Cookies
 - Subset Sums
 - Subsets II
+
+<br />
+
+**06-Recursion-and-Backtracking (Day 17)**
+<br />
+
+✅ **Day 17: Recursion & Backtracking**
+- Combination Sum
+- Combination Sum II
+- Palindrome partitioning
+- Permutation Sequence

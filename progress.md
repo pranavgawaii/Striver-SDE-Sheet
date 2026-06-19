@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **57 / 180 Problems (31.7%)**</code><br>
-<code>days active: 18 / 18 Days (100.0%)</code><br>
-<code>progress meter: [████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 31.7%</code><br>
+<code>overall completion: **60 / 180 Problems (33.3%)**</code><br>
+<code>days active: 19 / 19 Days (100.0%)</code><br>
+<code>progress meter: [█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░] 33.3%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -126,3 +126,10 @@
 - Permutations of a String
 - N Queen
 - Sudoku Solver
+
+<br />
+
+✅ **Day 19: Recursion & Backtracking Part III**
+- M Coloring Problem
+- Rat in a Maze
+- Word Break (print all ways)

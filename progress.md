@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **60 / 180 Problems (33.3%)**</code><br>
-<code>days active: 19 / 19 Days (100.0%)</code><br>
-<code>progress meter: [█████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░] 33.3%</code><br>
+<code>overall completion: **64 / 180 Problems (35.6%)**</code><br>
+<code>days active: 20 / 20 Days (100.0%)</code><br>
+<code>progress meter: [██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░] 35.6%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -133,3 +133,14 @@
 - M Coloring Problem
 - Rat in a Maze
 - Word Break (print all ways)
+
+<br />
+
+**07-Binary-Search (Day 20)**
+<br />
+
+✅ **Day 20: Binary Search**
+- The N-th root of an integer
+- Matrix Median
+- Single element in sorted array
+- Search element in a sorted and rotated array

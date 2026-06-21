@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **64 / 180 Problems (35.6%)**</code><br>
-<code>days active: 20 / 20 Days (100.0%)</code><br>
-<code>progress meter: [██████████████░░░░░░░░░░░░░░░░░░░░░░░░░░] 35.6%</code><br>
+<code>overall completion: **68 / 180 Problems (37.8%)**</code><br>
+<code>days active: 21 / 21 Days (100.0%)</code><br>
+<code>progress meter: [███████████████░░░░░░░░░░░░░░░░░░░░░░░░░] 37.8%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -144,3 +144,11 @@
 - Matrix Median
 - Single element in sorted array
 - Search element in a sorted and rotated array
+
+<br />
+
+✅ **Day 21: Binary Search Part II**
+- Median of 2 sorted arrays
+- Kth element of 2 sorted arrays
+- Allocate Minimum Number of Pages
+- Aggressive Cows

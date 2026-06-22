@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **68 / 180 Problems (37.8%)**</code><br>
-<code>days active: 21 / 21 Days (100.0%)</code><br>
-<code>progress meter: [███████████████░░░░░░░░░░░░░░░░░░░░░░░░░] 37.8%</code><br>
+<code>overall completion: **71 / 180 Problems (39.4%)**</code><br>
+<code>days active: 22 / 22 Days (100.0%)</code><br>
+<code>progress meter: [████████████████░░░░░░░░░░░░░░░░░░░░░░░░] 39.4%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -152,3 +152,13 @@
 - Kth element of 2 sorted arrays
 - Allocate Minimum Number of Pages
 - Aggressive Cows
+
+<br />
+
+**08-Heaps (Day 22)**
+<br />
+
+✅ **Day 22: Heaps**
+- Implement Max Heap
+- K-th Largest element in an array
+- Maximum Sum Combination

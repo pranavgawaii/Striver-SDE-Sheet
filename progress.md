@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **71 / 180 Problems (39.4%)**</code><br>
-<code>days active: 22 / 22 Days (100.0%)</code><br>
-<code>progress meter: [████████████████░░░░░░░░░░░░░░░░░░░░░░░░] 39.4%</code><br>
+<code>overall completion: **74 / 180 Problems (41.1%)**</code><br>
+<code>days active: 23 / 23 Days (100.0%)</code><br>
+<code>progress meter: [████████████████░░░░░░░░░░░░░░░░░░░░░░░░] 41.1%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -162,3 +162,8 @@
 - Implement Max Heap
 - K-th Largest element in an array
 - Maximum Sum Combination
+
+✅ **Day 23: Heaps Part II**
+- Find Median from Data Stream
+- Merge K Sorted Arrays
+- Top K Frequent Elements

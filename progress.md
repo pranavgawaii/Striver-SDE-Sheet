@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **74 / 180 Problems (41.1%)**</code><br>
-<code>days active: 23 / 23 Days (100.0%)</code><br>
-<code>progress meter: [████████████████░░░░░░░░░░░░░░░░░░░░░░░░] 41.1%</code><br>
+<code>overall completion: **78 / 180 Problems (43.3%)**</code><br>
+<code>days active: 24 / 24 Days (100.0%)</code><br>
+<code>progress meter: [█████████████████░░░░░░░░░░░░░░░░░░░░░░░] 43.3%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -167,3 +167,14 @@
 - Find Median from Data Stream
 - Merge K Sorted Arrays
 - Top K Frequent Elements
+
+<br />
+
+**09-Stack-and-Queue (Day 24)**
+<br />
+
+✅ **Day 24: Stack and Queue Part I**
+- Implement Stack using Arrays
+- Implement Queue using Arrays
+- Implement Stack using Queue (using single queue)
+- Implement Queue using Stack

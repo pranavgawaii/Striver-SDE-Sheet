@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **78 / 180 Problems (43.3%)**</code><br>
-<code>days active: 24 / 24 Days (100.0%)</code><br>
-<code>progress meter: [█████████████████░░░░░░░░░░░░░░░░░░░░░░░] 43.3%</code><br>
+<code>overall completion: **81 / 180 Problems (45.0%)**</code><br>
+<code>days active: 25 / 25 Days (100.0%)</code><br>
+<code>progress meter: [██████████████████░░░░░░░░░░░░░░░░░░░░░░] 45.0%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -178,3 +178,10 @@
 - Implement Queue using Arrays
 - Implement Stack using Queue (using single queue)
 - Implement Queue using Stack
+
+<br />
+
+✅ **Day 25: Stack and Queue Part II**
+- Balanced Paranthesis
+- Next Greater Element
+- Sort a Stack

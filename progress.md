@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **81 / 180 Problems (45.0%)**</code><br>
-<code>days active: 25 / 25 Days (100.0%)</code><br>
-<code>progress meter: [██████████████████░░░░░░░░░░░░░░░░░░░░░░] 45.0%</code><br>
+<code>overall completion: **84 / 180 Problems (46.7%)**</code><br>
+<code>days active: 26 / 26 Days (100.0%)</code><br>
+<code>progress meter: [███████████████████░░░░░░░░░░░░░░░░░░░░░] 46.7%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -185,3 +185,10 @@
 - Balanced Paranthesis
 - Next Greater Element
 - Sort a Stack
+
+<br />
+
+✅ **Day 26: Stack and Queue Part III**
+- Next Smaller Element
+- LRU Cache
+- LFU Cache

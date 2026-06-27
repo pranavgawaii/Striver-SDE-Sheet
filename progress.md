@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **84 / 180 Problems (46.7%)**</code><br>
-<code>days active: 26 / 26 Days (100.0%)</code><br>
-<code>progress meter: [███████████████████░░░░░░░░░░░░░░░░░░░░░] 46.7%</code><br>
+<code>overall completion: **88 / 180 Problems (48.8%)**</code><br>
+<code>days active: 27 / 27 Days (100.0%)</code><br>
+<code>progress meter: [████████████████████░░░░░░░░░░░░░░░░░░░░] 48.8%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -192,3 +192,11 @@
 - Next Smaller Element
 - LRU Cache
 - LFU Cache
+
+<br />
+
+✅ **Day 27: Stack and Queue Part IV**
+- Largest rectangle in a histogram
+- Sliding Window Maximum
+- Implement Min Stack
+- Rotten Oranges

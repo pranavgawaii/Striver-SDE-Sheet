@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **88 / 180 Problems (48.8%)**</code><br>
-<code>days active: 27 / 27 Days (100.0%)</code><br>
-<code>progress meter: [████████████████████░░░░░░░░░░░░░░░░░░░░] 48.8%</code><br>
+<code>overall completion: **91 / 180 Problems (50.6%)**</code><br>
+<code>days active: 28 / 28 Days (100.0%)</code><br>
+<code>progress meter: [████████████████████░░░░░░░░░░░░░░░░░░░░] 50.6%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -200,3 +200,10 @@
 - Sliding Window Maximum
 - Implement Min Stack
 - Rotten Oranges
+
+<br />
+
+✅ **Day 28: Stack and Queue Part V**
+- Stock span problem
+- Maximum of Minimums for Every Window Size
+- Celebrity Problem

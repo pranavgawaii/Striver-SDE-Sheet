@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **91 / 180 Problems (50.6%)**</code><br>
-<code>days active: 28 / 28 Days (100.0%)</code><br>
-<code>progress meter: [████████████████████░░░░░░░░░░░░░░░░░░░░] 50.6%</code><br>
+<code>overall completion: **94 / 180 Problems (52.2%)**</code><br>
+<code>days active: 29 / 29 Days (100.0%)</code><br>
+<code>progress meter: [█████████████████████░░░░░░░░░░░░░░░░░░░] 52.2%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -207,3 +207,13 @@
 - Stock span problem
 - Maximum of Minimums for Every Window Size
 - Celebrity Problem
+
+<br />
+
+**10-Strings (Day 29)**
+<br />
+
+✅ **Day 29: Strings Part I**
+- Reverse every word in a string
+- Longest Palindrome in a string
+- Roman to Integer

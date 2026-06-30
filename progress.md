@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **94 / 180 Problems (52.2%)**</code><br>
-<code>days active: 29 / 29 Days (100.0%)</code><br>
-<code>progress meter: [█████████████████████░░░░░░░░░░░░░░░░░░░] 52.2%</code><br>
+<code>overall completion: **98 / 180 Problems (54.4%)**</code><br>
+<code>days active: 30 / 30 Days (100.0%)</code><br>
+<code>progress meter: [██████████████████████░░░░░░░░░░░░░░░░░░] 54.4%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -217,3 +217,10 @@
 - Reverse every word in a string
 - Longest Palindrome in a string
 - Roman to Integer
+
+<br />
+
+✅ **Day 30: Strings Part II**
+- Implement ATOI/STRSTR
+- Longest Common Prefix
+- Rabin Karp

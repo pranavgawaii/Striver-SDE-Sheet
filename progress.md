@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **101 / 180 Problems (56.1%)**</code><br>
-<code>days active: 31 / 31 Days (100.0%)</code><br>
-<code>progress meter: [██████████████████████░░░░░░░░░░░░░░░░░░] 56.1%</code><br>
+<code>overall completion: **104 / 180 Problems (57.8%)**</code><br>
+<code>days active: 32 / 32 Days (100.0%)</code><br>
+<code>progress meter: [███████████████████████░░░░░░░░░░░░░░░░░] 57.8%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -231,3 +231,10 @@
 - Z function
 - KMP Algorithm or LPS array
 - Minimum insertions to make string palindrome
+
+<br />
+
+✅ **Day 32: Strings Part IV**
+- Valid Anagram
+- Count and say
+- Compare version numbers

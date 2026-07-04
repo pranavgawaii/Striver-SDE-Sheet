@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **108 / 180 Problems (60.0%)**</code><br>
-<code>days active: 33 / 33 Days (100.0%)</code><br>
-<code>progress meter: [████████████████████████░░░░░░░░░░░░░░░░] 60.0%</code><br>
+<code>overall completion: **112 / 180 Problems (62.2%)**</code><br>
+<code>days active: 34 / 34 Days (100.0%)</code><br>
+<code>progress meter: [█████████████████████████░░░░░░░░░░░░░░░] 62.2%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -249,3 +249,11 @@
 - Preorder Traversal
 - Postorder Traversal
 - Morris Inorder Traversal
+
+<br />
+
+✅ **Day 34: Binary Tree Part II**
+- Morris Preorder Traversal
+- Right/Left View of BT
+- Bottom view of BT
+- Top View of BT

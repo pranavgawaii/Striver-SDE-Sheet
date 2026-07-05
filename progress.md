@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **112 / 180 Problems (62.2%)**</code><br>
-<code>days active: 34 / 34 Days (100.0%)</code><br>
-<code>progress meter: [█████████████████████████░░░░░░░░░░░░░░░] 62.2%</code><br>
+<code>overall completion: **116 / 180 Problems (64.4%)**</code><br>
+<code>days active: 35 / 35 Days (100.0%)</code><br>
+<code>progress meter: [██████████████████████████░░░░░░░░░░░░░░] 64.4%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -257,3 +257,11 @@
 - Right/Left View of BT
 - Bottom view of BT
 - Top View of BT
+
+<br />
+
+✅ **Day 35: Binary Tree Part III**
+- Pre, Post, Inorder in one traversal
+- Vertical Order Traversal
+- Print root to leaf path in BT
+- Maximum Width of BT

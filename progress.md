@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **120 / 180 Problems (66.7%)**</code><br>
-<code>days active: 36 / 36 Days (100.0%)</code><br>
-<code>progress meter: [███████████████████████████░░░░░░░░░░░░░] 66.7%</code><br>
+<code>overall completion: **124 / 180 Problems (68.9%)**</code><br>
+<code>days active: 37 / 37 Days (100.0%)</code><br>
+<code>progress meter: [████████████████████████████░░░░░░░░░░░░] 68.9%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -273,3 +273,11 @@
 - Maximum Depth in BT
 - Diameter of Binary Tree
 - Check for balanced binary tree
+
+<br />
+
+✅ **Day 37: Binary Tree Part V**
+- LCA in BT
+- Check if two trees are identical or not
+- Zig Zag or Spiral Traversal
+- Boundary Traversal

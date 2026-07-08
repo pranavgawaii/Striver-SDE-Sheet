@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **124 / 180 Problems (68.9%)**</code><br>
-<code>days active: 37 / 37 Days (100.0%)</code><br>
-<code>progress meter: [████████████████████████████░░░░░░░░░░░░] 68.9%</code><br>
+<code>overall completion: **127 / 180 Problems (70.6%)**</code><br>
+<code>days active: 38 / 38 Days (100.0%)</code><br>
+<code>progress meter: [████████████████████████████░░░░░░░░░░░░] 70.6%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -281,3 +281,10 @@
 - Check if two trees are identical or not
 - Zig Zag or Spiral Traversal
 - Boundary Traversal
+
+<br />
+
+✅ **Day 38: Binary Tree Part VI**
+- Maximum path sum
+- Construct a BT from Preorder and Inorder
+- Construct a BT from Postorder and Inorder

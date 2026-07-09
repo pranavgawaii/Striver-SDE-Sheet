@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **127 / 180 Problems (70.6%)**</code><br>
-<code>days active: 38 / 38 Days (100.0%)</code><br>
-<code>progress meter: [████████████████████████████░░░░░░░░░░░░] 70.6%</code><br>
+<code>overall completion: **131 / 180 Problems (72.8%)**</code><br>
+<code>days active: 39 / 39 Days (100.0%)</code><br>
+<code>progress meter: [█████████████████████████████░░░░░░░░░░░] 72.8%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -288,3 +288,11 @@
 - Maximum path sum
 - Construct a BT from Preorder and Inorder
 - Construct a BT from Postorder and Inorder
+
+<br />
+
+✅ **Day 39: Binary Tree Part VII**
+- Symmetric Binary Tree
+- Flatten Binary Tree to Linked List
+- Check for symmetrical BTs
+- Children Sum Property in Binary Tree

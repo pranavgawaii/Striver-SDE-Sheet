@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **131 / 180 Problems (72.8%)**</code><br>
-<code>days active: 39 / 39 Days (100.0%)</code><br>
-<code>progress meter: [█████████████████████████████░░░░░░░░░░░] 72.8%</code><br>
+<code>overall completion: **134 / 180 Problems (74.4%)**</code><br>
+<code>days active: 40 / 40 Days (100.0%)</code><br>
+<code>progress meter: [██████████████████████████████░░░░░░░░░░] 74.4%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -296,3 +296,13 @@
 - Flatten Binary Tree to Linked List
 - Check for symmetrical BTs
 - Children Sum Property in Binary Tree
+
+<br />
+
+**12-Binary-Search-Tree (Day 40)**
+<br />
+
+✅ **Day 40: Binary Search Tree Part I**
+- Populating Next Right Pointers in Each Node
+- Search in BST
+- Construct BST from given keys

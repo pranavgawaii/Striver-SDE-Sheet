@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **134 / 180 Problems (74.4%)**</code><br>
-<code>days active: 40 / 40 Days (100.0%)</code><br>
-<code>progress meter: [██████████████████████████████░░░░░░░░░░] 74.4%</code><br>
+<code>overall completion: **138 / 180 Problems (76.7%)**</code><br>
+<code>days active: 41 / 41 Days (100.0%)</code><br>
+<code>progress meter: [███████████████████████████████░░░░░░░░░] 76.7%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -306,3 +306,11 @@
 - Populating Next Right Pointers in Each Node
 - Search in BST
 - Construct BST from given keys
+
+<br />
+
+✅ **Day 41: Binary Search Tree Part II**
+- Construct a BST from a preorder traversal
+- Check if a tree is a BST or not
+- LCA in BST
+- Inorder successor and predecessor in BST

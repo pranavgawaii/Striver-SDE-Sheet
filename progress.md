@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **138 / 180 Problems (76.7%)**</code><br>
-<code>days active: 41 / 41 Days (100.0%)</code><br>
-<code>progress meter: [███████████████████████████████░░░░░░░░░] 76.7%</code><br>
+<code>overall completion: **142 / 180 Problems (78.9%)**</code><br>
+<code>days active: 42 / 42 Days (100.0%)</code><br>
+<code>progress meter: [████████████████████████████████░░░░░░░░] 78.9%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -314,3 +314,11 @@
 - Check if a tree is a BST or not
 - LCA in BST
 - Inorder successor and predecessor in BST
+
+<br />
+
+✅ **Day 42: Binary Search Tree Part III**
+- Floor in a BST
+- Ceil in a BST
+- Find K-th smallest element in BST
+- Kth Smallest and Largest element in BST

@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **142 / 180 Problems (78.9%)**</code><br>
-<code>days active: 42 / 42 Days (100.0%)</code><br>
-<code>progress meter: [████████████████████████████████░░░░░░░░] 78.9%</code><br>
+<code>overall completion: **146 / 180 Problems (81.1%)**</code><br>
+<code>days active: 43 / 43 Days (100.0%)</code><br>
+<code>progress meter: [████████████████████████████████░░░░░░░░] 81.1%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -322,3 +322,11 @@
 - Ceil in a BST
 - Find K-th smallest element in BST
 - Kth Smallest and Largest element in BST
+
+<br />
+
+✅ **Day 43: Binary Search Tree Part IV**
+- Two sum in BST
+- BST iterator
+- Size of the largest BST in a Binary Tree
+- Serialize and De- serialize BT

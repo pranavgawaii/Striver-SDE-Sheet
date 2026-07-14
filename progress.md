@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **146 / 180 Problems (81.1%)**</code><br>
-<code>days active: 43 / 43 Days (100.0%)</code><br>
-<code>progress meter: [████████████████████████████████░░░░░░░░] 81.1%</code><br>
+<code>overall completion: **149 / 180 Problems (82.8%)**</code><br>
+<code>days active: 44 / 44 Days (100.0%)</code><br>
+<code>progress meter: [█████████████████████████████████░░░░░░░] 82.8%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -330,3 +330,13 @@
 - BST iterator
 - Size of the largest BST in a Binary Tree
 - Serialize and De- serialize BT
+
+<br />
+
+**13-Mixed-Questions (Day 44)**
+<br />
+
+✅ **Day 44: Mixed Questions Part I**
+- Binary Tree to Doubly Linked List
+- Find Median in a Stream
+- Kth largest element in a stream of running integers

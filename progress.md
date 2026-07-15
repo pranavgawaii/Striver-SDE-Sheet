@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **149 / 180 Problems (82.8%)**</code><br>
-<code>days active: 44 / 44 Days (100.0%)</code><br>
-<code>progress meter: [█████████████████████████████████░░░░░░░] 82.8%</code><br>
+<code>overall completion: **152 / 180 Problems (84.4%)**</code><br>
+<code>days active: 45 / 45 Days (100.0%)</code><br>
+<code>progress meter: [██████████████████████████████████░░░░░░] 84.4%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -340,3 +340,10 @@
 - Binary Tree to Doubly Linked List
 - Find Median in a Stream
 - Kth largest element in a stream of running integers
+
+<br />
+
+✅ **Day 45: Mixed Questions Part II**
+- Distinct Numbers in Each Subarray
+- K-th largest element in an unsorted array.
+- Flood-fill Algorithm

@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **152 / 180 Problems (84.4%)**</code><br>
-<code>days active: 45 / 45 Days (100.0%)</code><br>
-<code>progress meter: [██████████████████████████████████░░░░░░] 84.4%</code><br>
+<code>overall completion: **155 / 180 Problems (86.1%)**</code><br>
+<code>days active: 46 / 46 Days (100.0%)</code><br>
+<code>progress meter: [██████████████████████████████████░░░░░░] 86.1%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -347,3 +347,13 @@
 - Distinct Numbers in Each Subarray
 - K-th largest element in an unsorted array.
 - Flood-fill Algorithm
+
+<br />
+
+**14-Graphs (Day 46)**
+<br />
+
+✅ **Day 46: Graphs Part I**
+- Clone Graph
+- DFS
+- Traversal Techniques (BFS)

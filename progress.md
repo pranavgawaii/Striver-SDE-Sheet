@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **155 / 180 Problems (86.1%)**</code><br>
-<code>days active: 46 / 46 Days (100.0%)</code><br>
-<code>progress meter: [██████████████████████████████████░░░░░░] 86.1%</code><br>
+<code>overall completion: **158 / 180 Problems (87.8%)**</code><br>
+<code>days active: 47 / 47 Days (100.0%)</code><br>
+<code>progress meter: [███████████████████████████████████░░░░░] 87.8%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -357,3 +357,10 @@
 - Clone Graph
 - DFS
 - Traversal Techniques (BFS)
+
+<br />
+
+✅ **Day 47: Graphs Part II**
+- Detect A cycle in Undirected Graph using BFS
+- Detect A cycle in Undirected Graph using DFS
+- Detect A cycle in a Directed Graph using DFS

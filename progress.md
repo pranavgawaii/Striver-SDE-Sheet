@@ -1,9 +1,9 @@
 # SDE Progress Checklist
 *Tracking problem-solving metrics and daily topics.*
 
-<code>overall completion: **158 / 180 Problems (87.8%)**</code><br>
-<code>days active: 47 / 47 Days (100.0%)</code><br>
-<code>progress meter: [███████████████████████████████████░░░░░] 87.8%</code><br>
+<code>overall completion: **161 / 180 Problems (89.4%)**</code><br>
+<code>days active: 48 / 48 Days (100.0%)</code><br>
+<code>progress meter: [████████████████████████████████████░░░░] 89.4%</code><br>
 <br />
 
 **01-Arrays (Days 1–8)**
@@ -364,3 +364,10 @@
 - Detect A cycle in Undirected Graph using BFS
 - Detect A cycle in Undirected Graph using DFS
 - Detect A cycle in a Directed Graph using DFS
+
+<br />
+
+✅ **Day 48: Graphs Part III**
+- Detect Cycle in a Directed Graph (BFS)
+- Topological Sort (BFS)
+- Topological Sort (DFS)
